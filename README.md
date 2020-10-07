@@ -4,6 +4,7 @@ Hacktoberfest event
 ## Contributors
 - [Safira](https://github.com/safiraisya)
 - [Fadhiil Rachman](https://github.com/fadhiilrachman)
+- [Rafly](https://github.com/raflyid)
 
 ## How to contribute
 - Fork this repository
