@@ -6,6 +6,7 @@ Hacktoberfest event
 - [Fadhiil Rachman](https://github.com/fadhiilrachman)
 - [Rafly](https://github.com/raflyid)
 - [abifadhillah](https://github.com/abifadhillah)
+- [Xearty](https://github.com/Xearty)
 
 ## How to contribute
 - Fork this repository
